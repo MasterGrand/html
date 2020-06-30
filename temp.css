@@ -24,3 +24,8 @@
     text-transform: none;
     text-align: center;
 }
+
+.evilcats {
+    font-family: Tahoma;
+    color: #ff0000;
+}
