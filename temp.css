@@ -1,0 +1,26 @@
+.intro {
+    font-family: serif;
+    font-size: 20px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #ff0000;
+    font-weight: 400;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+}
+
+.text {
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 16px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #1600FF;
+    font-weight: 400;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: small-caps;
+    text-transform: none;
+    text-align: center;
+}
